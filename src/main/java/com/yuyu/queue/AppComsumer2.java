@@ -1,4 +1,4 @@
-package com.yuyu.comsumer;
+package com.yuyu.queue;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
